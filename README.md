@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Masoud Mohajeri
-- 👀 I’m interested in Web Development . My wife is Angular , my mistress is React and my girlfriend is Django ! 
-- 🌱 I’m currently learning Django 
+- 👀 I’m interested in Front-end Development . Angular , React or Vue are just tools , I'm a "Front-end developer" not a Angular/React/Vue developer.
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me = { 
-      PhoneNumber : 09198639256 , 
+      PhoneNumber : 09911096052 , 
       Telegram : @mohajerimasoud , 
       E-mail : madoudmohajeri@outlook.com 
       };
