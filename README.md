@@ -4,6 +4,6 @@
 - 📫 How to reach me = { 
       PhoneNumber : 09911096052 , 
       Telegram : @mohajerimasoud , 
-      E-mail : madoudmohajeri@outlook.com 
+      E-mail : masoudmohajeri.wd@gmail.com 
       };
 
