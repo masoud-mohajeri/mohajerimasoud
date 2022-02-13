@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Masoud Mohajeri
-- 👀 I’m interested in Front-end Development . Angular , React or Vue are just tools , I'm a "Front-end developer" not a Angular/React/Vue developer.
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in Front-end Development .
+- 🌱 I’m currently learning express and mongodb
 - 📫 How to reach me = { 
-      PhoneNumber : 09911096052 , 
       Telegram : @mohajerimasoud , 
       E-mail : masoudmohajeri.wd@gmail.com 
       };
